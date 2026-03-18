@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - "-I/usr/share/avr/avr/include"
+    - "-D__AVR_ATmega328P__"
